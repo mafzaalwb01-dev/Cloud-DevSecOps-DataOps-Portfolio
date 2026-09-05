@@ -1,46 +1,43 @@
-# Devsecops-Proof-of-Work
-Practical labs and projects for my DevSecOps career transition. Building a strong proof-of-work portfolio.
+# 🚀 Ultimate Cloud, DevSecOps & DataOps Portfolio (2026)
 
-
-# 🚀 My DevSecOps Learning Journey (Zero to Hero)
-
-Welcome to my repository! This space is dedicated to tracking my **15-Month DevSecOps Roadmap** progress. Here, I document everything I learn, practice, and build as I transform from a beginner into a Junior DevSecOps Engineer.
-
-## 🗺️ The Roadmap & Core Path
-I am following a structured learning path:
-**Linux** ➡️ **Networking** ➡️ **Python Automation** ➡️ **Docker** ➡️ **AWS** ➡️ **Terraform** ➡️ **CI/CD** ➡️ **Security**
+Welcome to my professional proof-of-work repository! This repository tracks my hands-on journey to mastering Cloud Infrastructure, Automated Security (DevSecOps), and Data Pipelines (DataOps).
 
 ---
 
-## 📅 Journey Phases & Progress
+## 🗺️ My Multi-Talented Engineering Roadmap
 
-### 🔹 Phase 1: Foundation (Months 1-4)
-- **Linux & Networking:** Terminal commands, bash scripting, IP addressing, and network protocols.
-- **Python Automation:** System manipulation scripts, log readers, and file organizers.
+### 🧱 Phase 1: Core Foundations
+- [ ] **Step 1: Linux** — OS basics, file management, permissions, and system administration.
+- [ ] **Step 2: Networking** — IP addresses, subnetting, SSH, DNS, and ports.
+- [ ] **Step 3: Bash Automation** — Automation scripts to handle repetitive system tasks.
+- [ ] **Step 4: Python Automation** — Python coding for cloud interaction and advanced scripts.
+- [ ] **Step 5: Git & GitOps** — Version control and automating deployments using Git repository workflows.
 
-### 🔹 Phase 2: Cloud & Containers (Months 5-9)
-- **Docker:** Creating Dockerfiles, micro-services isolation, and multi-container setups.
-- **AWS Cloud:** Hosting architectures using EC2, S3, VPC, IAM, and RDS.
+### ☁️ Phase 2: Cloud & DevOps Infrastructure
+- [ ] **Step 6: Virtualization** — Understanding hypervisors and virtual infrastructure concepts.
+- [ ] **Step 7: Containerization (Docker)** — Packaging applications tightly to run anywhere seamlessly.
+- [ ] **Step 8: Kubernetes (K8s)** — Managing, scaling, and orchestrating thousands of containers automatically.
+- [ ] **Step 9: Cloud Platforms (AWS/Azure)** — Hosting scalable infrastructure using internet-based cloud services.
+- [ ] **Step 10: Infrastructure as Code (Terraform)** — Writing reusable code to spin up complete cloud networks automatically.
 
-### 🔹 Phase 3: DevOps & CI/CD (Months 10-12)
-- **Terraform:** Infrastructure as Code (IaC) to deploy systems purely via text scripts.
-- **GitHub Actions:** Building automated deployment pipelines.
+### 🔒 Phase 3: DevSecOps & Security
+- [ ] **Step 11: DevSecOps Security Tools** — Automated security scanning (SAST/DAST) and vulnerability testing.
+- [ ] **Step 12: Cyber Security & Threat Hunting** — Hardening operating systems and keeping production networks safe from hackers.
 
-### 🔹 Phase 4: Hardened Security & Capstone (Months 13-15)
-- **Cloud Security:** Cyber security engineering, firewalls, and vulnerability scanning.
-- **The Cloud Resume Challenge:** Building a final production-ready secure portfolio project.
-
----
-
-## 🛠️ Repository Structure
-- `/01-linux-networking` -> Basic bash scripts and network tracking.
-- `/02-python-automation` -> Custom utility and automation tools.
-- `/03-docker-labs` -> Containerized web applications.
-- `/04-aws-infrastructure` -> Cloud configuration notes and diagrams.
-- `/05-terraform-iac` -> Declarative infrastructure scripts.
-- `/06-cicd-pipelines` -> GitHub Actions workflow YAML files.
+### 📊 Phase 4: Data Engineering & DataOps
+- [ ] **Step 13: SQL & Databases** — Organizing, querying, and optimizing big relational data storage.
+- [ ] **Step 14: Data Pipelines (Airflow & Spark)** — Building continuous pipelines to clean and move data safely for AI tasks.
 
 ---
 
-## 💡 Golden Rule
-> *"Do not mark a topic complete just by watching videos. Complete it after practice and a mini project."*
+## 📁 Repository Folder Structure
+
+This repository is strictly organized into clean modules to showcase my production-ready work:
+* `01-Foundations-Linux-Bash-Python/` — Automation scripts, network config notes, and coding challenges.
+* `02-DevOps-Docker-Kubernetes/` — Dockerfiles, Docker-compose setups, and Kubernetes manifests.
+* `03-Cloud-Infrastructure-Terraform/` — Infrastructure as Code (IaC) configuration templates for AWS/Azure.
+* `04-DevSecOps-Security-Pipelines/` — Secure CI/CD pipeline automation examples and vulnerability scans.
+* `05-DataOps-Data-Pipelines/` — SQL scripts, database models, and Apache Airflow DAG configurations.
+
+---
+*“Slow and steady wins the race. Documenting my engineering evolution daily.”*
