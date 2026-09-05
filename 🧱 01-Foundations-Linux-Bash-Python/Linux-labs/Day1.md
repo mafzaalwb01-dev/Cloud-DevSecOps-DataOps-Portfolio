@@ -94,6 +94,8 @@ The lab included:
 
 I added terminal screenshots showing my actual Linux practice and mini project.
 <img width="1920" height="1080" alt="Screenshot (1009)" src="https://github.com/user-attachments/assets/c4fdba4d-b52f-4838-98bc-d68966daa913" />
+<img width="1920" height="1080" alt="Screenshot (1012)" src="https://github.com/user-attachments/assets/8f2bd45c-045c-4ab3-905f-55c6cf056b8b" />
+
 
 
 ## 🧠 What I Understood
