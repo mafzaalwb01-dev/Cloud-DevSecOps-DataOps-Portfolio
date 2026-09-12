@@ -503,4 +503,4 @@ I practiced the commands from Day 2 on my Linux system.
 
 **Practice Screenshot:**
 
-> Add my Linux terminal practice screenshot here.
+> Check in Folder Day 3  practice
