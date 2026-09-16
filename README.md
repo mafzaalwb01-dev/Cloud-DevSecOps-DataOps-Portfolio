@@ -31,10 +31,10 @@ Track my progress through core Cloud & Security competencies:
 
 ### 🔹 Phase 1: Core Foundations
 - [x] **Linux System Administration** — Process management, permissions, and server hardening.
-- [x] **Networking Fundamentals** — TCP/IP, OSI model, DNS, firewalls, and packet routing.
-- [x] **Bash Scripting & Automation** — Custom Linux utility automation and system cron jobs.
-- [x] **Python Automation & APIs** — Custom security tooling, API interaction, and system automation.
-- [x] **Git & GitOps Workflows** — Version control best practices, trunk-based development, and GitHub Actions.
+- [ ] **Networking Fundamentals** — TCP/IP, OSI model, DNS, firewalls, and packet routing.
+- [ ] **Bash Scripting & Automation** — Custom Linux utility automation and system cron jobs.
+- [ ] **Python Automation & APIs** — Custom security tooling, API interaction, and system automation.
+- [ ] **Git & GitOps Workflows** — Version control best practices, trunk-based development, and GitHub Actions.
 
 ### 🔹 Phase 2: DevOps & Cloud Engineering
 - [ ] **Virtualization Core** — Hypervisor architecture, virtual networks, and resource allocation.
